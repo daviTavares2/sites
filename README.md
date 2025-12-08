@@ -1,31 +1,56 @@
-# 🌐 Portfólio de Sites
+# 🌐 Websites Portfolio
 
-Este repositório reúne todos os sites que já desenvolvi — desde meus primeiros projetos simples até trabalhos mais completos.  
-É basicamente um registro da minha evolução como desenvolvedor, mostrando a prática real: erros, acertos e tudo o que aprendi no processo.
-
----
-
-## ✨ O que você vai encontrar aqui
-
-- Sites básicos do começo dos estudos  
-- Projetos mais robustos e bem estruturados  
-- Layouts responsivos, animações e boas práticas  
-- A maioria dos projetos foi desenvolvida por mim sozinho  
+This repository contains all the websites I've built so far — from my earliest, simplest projects to more complete and structured applications.  
+It's essentially a record of my growth as a developer, showing real practice: mistakes, improvements, and everything I've learned along the way.
 
 ---
 
-## 🧰 Tecnologias que mais aparecem
+## ✨ What You’ll Find Here
+
+- Basic websites from the beginning of my studies  
+- More robust and well-structured projects  
+- Responsive layouts, animations, and clean UI work  
+- Most projects were developed entirely by me  
+
+---
+
+## 🧰 Common Technologies Used
 
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**  
 - **React**  
 - **Node.js**  
-- **APIs externas**  
-- **Frameworks e libs** que fui aprendendo no caminho
+- **External APIs**  
+- **Various frameworks and libraries** learned throughout my journey
 
 ---
 
-## 📁 Estrutura dos projetos
+## 📁 Project Structure
 
-Cada pasta corresponde a um projeto individual:
+Each folder represents an individual project:
+/Project/
+├── index.html (or main file)
+├── /css
+├── /js
+├── /assets
+└── Project-specific README (when available)
+
+## 🚀 Purpose of This Repository
+
+To maintain an honest record of my development journey —  
+from simple code to more complete projects.  
+This isn’t just a polished showcase; it’s real evolution over time.
+
+---
+
+## 💬 Feedback
+
+If you want to share ideas, suggest improvements, or report anything, feel free to open an **issue**.  
+I’m always improving my projects and studying new technologies.
+
+---
+
+## 🔗 Quick Navigation (optional)
+
+You can explore the projects through the folders or check their GitHub Pages demos (when available inside the project folders).

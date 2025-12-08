@@ -3,8 +3,8 @@
 # 🌐 Websites Portfolio  
 
 <p style="max-width: 650px; margin: 0 auto;">
-A collection of all the websites I've built — from my earliest and simplest experiments to fully structured and responsive projects.  
-This repo shows my real evolution as a developer.
+This repository contains every website I've built — from my earliest experiments to more complete and structured projects.  
+It serves as a visual timeline of my evolution as a developer.
 </p>
 
 <br/>
@@ -29,10 +29,21 @@ This repo shows my real evolution as a developer.
 
 ## ✨ What You’ll Find Here
 
-- Beginner-friendly projects from my early learning phase  
-- More complete, modern, and structured websites  
-- Responsive layouts, UI experiments, and animations  
-- Almost all projects developed entirely by me  
-- A transparent evolution timeline of my coding journey  
+- Early beginner projects (with natural starter mistakes)
+- More complete and structured websites
+- Fully responsive layouts and UI experiments
+- Projects built almost entirely by me
+- A transparent record of my progress and consistency
 
 ---
+
+## 📂 About the Folder Structure
+
+Each folder inside this repository represents **a completely different project**.
+
+In other words:  
+📌 **1 folder = 1 website / 1 project**
+
+This helps organize my work and makes it easy to browse through every stage of my development journey.
+
+

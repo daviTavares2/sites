@@ -36,17 +36,3 @@ This repo shows my real evolution as a developer.
 - A transparent evolution timeline of my coding journey  
 
 ---
-
-## 📁 Project Structure
-
-
-
-## 🔗 Quick Navigation (optional)
-
-You can explore the projects through the folders or check their GitHub Pages demos (when available inside the project folders).
-/Project/
-├── index.html (or main file)
-├── /css
-├── /js
-├── /assets
-└── README (when available)

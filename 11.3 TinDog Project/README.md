@@ -1,9 +1,5 @@
-Aqui está uma descrição melhorada para o seu repositório do TinDog no GitHub:
 
-Sugestão de descrição (campo "About" — uma linha):
-
-🐾 Landing page responsiva inspirada no Tinder, construída com HTML, CSS e Bootstrap — projeto do curso Full Stack Web Development da Udemy.
-
+ Landing page responsiva inspirada no Tinder, construída com HTML, CSS e Bootstrap — projeto do curso Full Stack Web Development da Udemy.
 
 Sugestão de README completo:
 markdown# 🐾 TinDog

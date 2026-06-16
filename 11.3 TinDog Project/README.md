@@ -1,3 +1,49 @@
+Aqui está uma descrição melhorada para o seu repositório do TinDog no GitHub:
+
+Sugestão de descrição (campo "About" — uma linha):
+
+🐾 Landing page responsiva inspirada no Tinder, construída com HTML, CSS e Bootstrap — projeto do curso Full Stack Web Development da Udemy.
+
+
+Sugestão de README completo:
+markdown# 🐾 TinDog
+
+Uma landing page moderna e totalmente responsiva inspirada no Tinder — mas para cachorros!
+Projeto desenvolvido durante o curso **The Complete Full-Stack Web Development Bootcamp** da Udemy, ministrado por Angela Yu.
+
+## 🔍 Sobre o Projeto
+
+O TinDog é uma página de apresentação fictícia de um aplicativo de relacionamentos para cães.
+O objetivo foi praticar os fundamentos do **Bootstrap** para criar layouts responsivos, componentes visuais e uma estrutura de página profissional.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5** — estrutura semântica da página
+- **CSS3** — estilização customizada
+- **Bootstrap** — grid system, componentes e responsividade
+
+## 📐 Funcionalidades
+
+- Layout responsivo (mobile-first)
+- Navbar com menu hambúrguer
+- Seção hero com call-to-action
+- Cards de planos/preços
+- Carrossel de depoimentos
+- Footer informativo
+
+## 🚀 Como Visualizar
+
+1. Clone este repositório:
+```bash
+   git clone https://github.com/seu-usuario/tindog.git
+```
+2. Abra o arquivo `index.html` no seu navegador.
+
+## 📚 Referência
+
+Projeto guiado pelo curso [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) — Angela Yu, App Brewery.
+
+---
 # TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
